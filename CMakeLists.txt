@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(vagrind-test)
+project(vagrind-tutorial)
 
 set(valgrind_test_source_files
     tutorial01.c
